@@ -1,2 +1,3 @@
-Yasmin Soares dos Santos Curvina, Curso: Sistemas de Informação
+Yasmin Soares dos Santos Curvina<br> 
+Curso: Sistemas de Informação<br>
 Alteração feita pelo navegador
